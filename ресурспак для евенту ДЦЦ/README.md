@@ -4,6 +4,7 @@
 
 ресурспак: slavchik (youtube: https://www.youtube.com/@Priklyucheniya_Slavy/featured)
 \+ деякі речі для ресурспака були взяті з ресурспаку Scar's "Big Hat" (https://www.planetminecraft.com/texture-pack/scar-s-big-hat)
+\+ деякі речі для ресурспака були взяті з ресурспаку створеним 11_ArtemPR_22 на сайті vanillatweaks (https://vanillatweaks.net/picker/resource-packs)
 
 ## Для чого ресурпак?
 
@@ -11,5 +12,6 @@
 
 ## Контент добавлений ресурспаком
 
-1. Шляпа Кейна замість вирізаного гарбуза
-2. Палка Кейна замість стержня блейза
+1. Шляпа Кейна замість вирізаного гарбуза.
+2. Палка Кейна замість стержня блейза.
+3. Сині слайми та інші предмети де є слизь.
