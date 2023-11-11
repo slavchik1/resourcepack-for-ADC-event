@@ -2,7 +2,7 @@
 
 ## Творці ресурспаку
 
-ресурспак: slavchik (youtube: https://www.youtube.com/@Priklyucheniya_Slavy)
+Ресурспак: slavchik (youtube: https://www.youtube.com/@Priklyucheniya_Slavy)
 \+ деякі речі для ресурспака були взяті з ресурспаку Scar's "Big Hat" (https://www.planetminecraft.com/texture-pack/scar-s-big-hat)
 \+ деякі речі для ресурспака були взяті з ресурспаку створеним 11_ArtemPR_22 на сайті vanillatweaks (https://vanillatweaks.net/picker/resource-packs).
 
